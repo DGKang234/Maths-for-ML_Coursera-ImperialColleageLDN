@@ -3,4 +3,4 @@
 
 
 This is the repository contains the Coursera course: Mathematics for machine learning by Imperial College London.
-![alt text](https://github.com/DGKang234/Maths-for-ML_Coursera-ImperialColleageLDN/blob/main/Certificate_of_completion.pdf)
+![Alt text](https://github.com/DGKang234/Maths-for-ML_Coursera-ImperialColleageLDN/blob/main/Certificate_of_completion.pdf)
